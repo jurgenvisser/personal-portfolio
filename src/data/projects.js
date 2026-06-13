@@ -8,7 +8,7 @@ export const projects = [
   {
     name: 'The System Webshop',
     url: 'https://shop.thesystemoftheworld.com',
-    category: 'Storefront',
+    category: 'Webshop',
     description: 'Webshop gekoppeld aan The System of the World.',
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
   {
     name: 'The Official Juri',
     url: 'https://theofficialjuri.com',
-    category: 'Creator presence',
+    category: 'Creator website',
     description: 'Officiële website voor Juri als creator.',
   },
   {
