@@ -1,11 +1,11 @@
 const contactLinks = [
   {
-    label: 'General questions',
+    label: 'Algemenen vragen',
     email: 'contact@jurgenbv.nl',
     description: 'Voor project vragen, onderhoud, en algemeen contact.',
   },
   {
-    label: 'Website orders or business inquiries',
+    label: 'Website bestellingen of zakelijke vragen',
     email: 'business@jurgenbv.nl',
     description: 'Voor nieuwe website verzoeken, zakelijke werkzaamheden, en bestelaanvragen.',
   },
