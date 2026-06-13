@@ -4,23 +4,23 @@ export const skills = [
     items: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS', 'Bootstrap', 'Responsive design'],
   },
   {
-    category: 'Web apps and backend',
+    category: 'Web apps en backend',
     items: ['Vite', 'Component-based UI', 'Browser-based tools', 'PHP', 'Laravel'],
   },
   {
-    category: 'Integrations',
+    category: 'Integraties',
     items: ['API integration', 'Webhooks', 'Form data workflows', 'Mail automation'],
   },
   {
-    category: 'Storefronts and CRM',
+    category: 'Webshops en CRM',
     items: ['Storefront setup', 'Product updates', 'Content changes', 'CRM-style tools'],
   },
   {
-    category: 'Maintenance',
+    category: 'Onderhoud',
     items: ['Updates', 'Improvements', 'Content changes', 'Fixing issues'],
   },
   {
-    category: 'Deployment',
+    category: 'Hosting en deployment',
     items: ['Cloudflare Pages', 'Custom domains', 'Static hosting'],
   },
   {
@@ -28,7 +28,7 @@ export const skills = [
     items: ['Discord server setup', 'Server rules', 'Discord bot development'],
   },
   {
-    category: 'Practical web work',
+    category: 'Praktische sites',
     items: ['Project websites', 'Landing pages', 'Link hubs', 'Storefronts', 'Utility tools'],
   },
 ];
