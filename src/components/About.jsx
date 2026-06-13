@@ -3,7 +3,7 @@ export default function About() {
     <section id="over" className="scroll-mt-24 border-b border-line bg-white">
       <div className="mx-auto grid max-w-6xl gap-8 px-5 py-14 sm:px-6 sm:py-16 lg:grid-cols-[0.8fr_1.2fr] lg:px-8">
         <div>
-          <p className="text-sm font-medium uppercase tracking-[0.18em] text-accent">Over</p>
+          <p className="text-sm font-medium uppercase tracking-[0.18em] text-accent">Over mij</p>
           <h2 className="mt-3 text-3xl font-semibold text-ink sm:text-4xl">Webwerk dat blijft staan.</h2>
         </div>
 
