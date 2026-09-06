@@ -1,4 +1,4 @@
-import profileImage from '../images/me-portfolio.jpg';
+import profileImage from '../images/me-portfolio1.jpeg';
 import { calculateAge } from '../utils/age.js';
 
 const currentAge = calculateAge('2001-09-24');
@@ -43,7 +43,7 @@ export default function Hero() {
             <img
               src={profileImage}
               alt="Jurgen Visser"
-              className="aspect-[4/5] w-full object-cover object-center"
+              className="aspect-[4/4] w-full object-cover object-center"
               decoding="async"
             />
           </figure>
