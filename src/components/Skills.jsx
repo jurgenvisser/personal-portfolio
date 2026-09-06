@@ -6,10 +6,10 @@ export default function Skills() {
       <div className="mx-auto max-w-6xl px-5 py-14 sm:px-6 sm:py-16 lg:px-8">
         <div className="max-w-3xl">
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-accent">Skills</p>
-          <h2 className="mt-3 text-3xl font-semibold text-ink sm:text-4xl">Gefocused, praktische mogelijkheden.</h2>
+          <h2 className="mt-3 text-3xl font-semibold text-ink sm:text-4xl">Focused, practical capabilities.</h2>
           <p className="mt-5 text-base leading-8 text-muted sm:text-lg">
-            Een praktische stack voor het bouwen van websites, het verbinden van tools, het onderhouden van storefronts, en
-            het opzetten van nuttige digitale workflows.
+            A practical stack for building websites, connecting tools, maintaining storefronts, and setting up useful
+            digital workflows.
           </p>
         </div>
 

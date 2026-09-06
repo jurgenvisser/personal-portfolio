@@ -15,11 +15,11 @@ export default function Hero() {
             Jurgen Visser
           </h1>
           <p className="mt-6 max-w-2xl text-xl leading-8 text-ink sm:text-2xl sm:leading-9">
-            Praktische websites, tools en digitale projecten — gebouwd om te blijven werken.
+            Practical websites, tools, and digital projects built to keep working.
           </p>
           <p className="mt-5 max-w-2xl text-base leading-8 text-muted sm:text-lg">
-            Van publieke websites tot slimme tools en projectplatforms: 
-            alles wordt gebouwd met oog voor structuur, snelheid en onderhoudbaarheid.
+            From public websites to smart tools and project platforms, everything is built with an eye for structure,
+            speed, and maintainability.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -27,13 +27,13 @@ export default function Hero() {
               href="#projects"
               className="inline-flex min-h-11 items-center justify-center border border-accent bg-accent px-5 py-3 text-sm font-semibold text-white outline-none transition hover:bg-[#0b5f59] focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-4 focus-visible:ring-offset-paper"
             >
-              Bekijk Projecten
+              View Projects
             </a>
             <a
               href="#contact"
               className="inline-flex min-h-11 items-center justify-center border border-ink/20 bg-transparent px-5 py-3 text-sm font-semibold text-ink outline-none transition hover:border-ink hover:bg-white focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-4 focus-visible:ring-offset-paper"
             >
-              Neem Contact Op
+              Get in Touch
             </a>
           </div>
         </div>
@@ -49,12 +49,12 @@ export default function Hero() {
           </figure>
 
           <div className="border-l-4 border-accent bg-white p-6 shadow-soft sm:p-7">
-            <p className="text-sm font-medium uppercase tracking-[0.16em] text-muted">Profiel</p>
+            <p className="text-sm font-medium uppercase tracking-[0.16em] text-muted">Profile</p>
             <p className="mt-4 text-2xl font-semibold text-ink">
-              Nederland • {currentAge} jaar
+              The Netherlands • {currentAge} years old
             </p>
             <p className="mt-4 text-sm leading-7 text-muted">
-              Betrouwbaar webwerk dat snel laadt, goed onderhouden wordt en meegroeit met het project.
+              Reliable web work that loads fast, stays well maintained, and grows with the project.
             </p>
           </div>
         </aside>

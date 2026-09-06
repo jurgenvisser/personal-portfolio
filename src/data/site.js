@@ -1,1 +1,1 @@
-export const siteVersion = 'PPJV.0.0.5P';
+export const siteVersion = 'PPJV.0.0.6P';

@@ -1,13 +1,13 @@
 const contactLinks = [
   {
-    label: 'Algemenen vragen',
+    label: 'General questions',
     email: 'contact@jurgenbv.nl',
-    description: 'Voor project vragen, onderhoud, en algemeen contact.',
+    description: 'For project questions, maintenance, and general contact.',
   },
   {
-    label: 'Website bestellingen of zakelijke vragen',
+    label: 'Website orders or business questions',
     email: 'business@jurgenbv.nl',
-    description: 'Voor nieuwe website verzoeken, zakelijke werkzaamheden, en bestelaanvragen.',
+    description: 'For new website requests, business work, and order inquiries.',
   },
 ];
 
@@ -18,9 +18,11 @@ export default function Contact() {
         <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
           <div>
             <p className="text-sm font-medium uppercase tracking-[0.18em] text-accent">Contact</p>
-            <h2 className="mt-3 text-3xl font-semibold text-ink sm:text-4xl">Duidelijke manieren om contact op te nemen.</h2>
+            <h2 className="mt-3 text-3xl font-semibold text-ink sm:text-4xl">
+              Clear ways to get in touch.
+            </h2>
             <p className="mt-5 text-base leading-8 text-muted sm:text-lg">
-              Stuur een directe e-mail voor algemene vragen, website werk, of zakelijke inquiries.
+              Send a direct email for general questions, website work, or business inquiries.
             </p>
           </div>
 
